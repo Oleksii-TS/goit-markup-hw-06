@@ -1025,6 +1025,9 @@ button {
 }
 
 @media screen and (min-width: 1158px) {
+  .page-footer {
+    padding: 100px 0;
+  }
   .footer-container {
     flex-direction: row;
     padding: 0 15px;
